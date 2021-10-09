@@ -1,0 +1,16 @@
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.exe
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.deps.json
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.dll
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+E:\Code\.vscode\Chapter02\Arrays\bin\Debug\net5.0\Arrays.pdb
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.dll
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.pdb
+E:\Code\.vscode\Chapter02\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
