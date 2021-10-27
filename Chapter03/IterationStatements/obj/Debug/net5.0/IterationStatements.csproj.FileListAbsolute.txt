@@ -1,0 +1,16 @@
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.AssemblyReference.cache
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+E:\Code\Chapter03\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+E:\Code\Chapter03\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache

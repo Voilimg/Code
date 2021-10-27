@@ -1,0 +1,16 @@
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.exe
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.deps.json
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.dll
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\ref\Debugging.dll
+E:\Code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.pdb
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csproj.AssemblyReference.cache
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.dll
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\ref\Debugging.dll
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.pdb
+E:\Code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache

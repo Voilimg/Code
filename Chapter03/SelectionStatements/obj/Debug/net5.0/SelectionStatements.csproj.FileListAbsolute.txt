@@ -1,0 +1,16 @@
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.exe
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.deps.json
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.json
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.dev.json
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.dll
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\ref\SelectionStatements.dll
+E:\Code\Chapter03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.pdb
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.AssemblyReference.cache
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfoInputs.cache
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfo.cs
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.CoreCompileInputs.cache
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.dll
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\ref\SelectionStatements.dll
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.pdb
+E:\Code\Chapter03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.genruntimeconfig.cache

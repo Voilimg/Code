@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Chapter03",
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\HandlingExceptions"
+		}
+	],
+	"settings": {}
+}

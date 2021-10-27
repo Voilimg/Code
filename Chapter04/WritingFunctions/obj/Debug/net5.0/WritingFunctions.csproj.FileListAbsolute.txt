@@ -1,0 +1,16 @@
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.exe
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.deps.json
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.json
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.dev.json
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.dll
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\ref\WritingFunctions.dll
+E:\Code\.vscode\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.pdb
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.AssemblyReference.cache
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfoInputs.cache
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfo.cs
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.CoreCompileInputs.cache
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.dll
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\ref\WritingFunctions.dll
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.pdb
+E:\Code\.vscode\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.genruntimeconfig.cache

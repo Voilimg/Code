@@ -1,0 +1,16 @@
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+E:\Code\Chapter03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.AssemblyReference.cache
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+E:\Code\Chapter03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

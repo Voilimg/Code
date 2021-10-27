@@ -1,0 +1,5 @@
+E:\Code\.vscode\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.csproj.AssemblyReference.cache
+E:\Code\.vscode\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.vscode\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfoInputs.cache
+E:\Code\.vscode\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfo.cs
+E:\Code\.vscode\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.csproj.CoreCompileInputs.cache

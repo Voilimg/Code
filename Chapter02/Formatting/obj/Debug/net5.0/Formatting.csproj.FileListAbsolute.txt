@@ -1,0 +1,16 @@
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.exe
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.deps.json
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.dll
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+E:\Code\.vscode\Chapter02\Formatting\bin\Debug\net5.0\Formatting.pdb
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.AssemblyReference.cache
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.dll
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.pdb
+E:\Code\.vscode\Chapter02\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
